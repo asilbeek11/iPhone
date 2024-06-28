@@ -1,0 +1,134 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color:  white;
+}
+.screen {
+width: 165px;
+height: 300px;
+background-color: black;
+margin-top: -402px;
+margin-left: -1px;
+}
+.screen1 {
+width: 165px;
+height: 300px;
+background-color: red;
+margin-top: -342px;
+margin-left: -1px;
+display: none;
+}
+.screen2 {
+    width: 165px;
+    height: 300px;
+    background-color: black;
+    margin-top: -402px;
+    margin-left: -1px;
+}
+    .screen3 {
+    width: 165px;
+    height: 300px;
+    background-color: red;
+    margin-top: -342px;
+    margin-left: -1px;
+    display: none;
+    }
+.screen4 {
+width: 165px;
+height: 300px;
+background-image: url(https://9to5mac.com/?attachment_id=811133);
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: -402px;
+margin-left: -40px;
+}
+.btn {
+width: 35px;
+height: 35px;
+border-radius: 50%;
+}
+.btn1 {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    }
+.box1 {
+display: none;
+}
+.dv1 {
+display: flex;
+width: 100%;
+height: 50px;
+/* border: 1px solid black; */
+justify-content: center;
+align-items: center;
+}
+.f1, .f2, .f3, .f4  {
+display: flex;
+width: 50px;
+height: 40px;
+border-radius: 50%;
+/* border: 1px solid black; */
+justify-content: center;
+align-items: center;
+}
+.img1 {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.clock {
+width: 165px;
+height: 300px;
+background-image: url(https://i.pinimg.com/736x/6e/e1/91/6ee19142a58f28b93766a9f44663a540.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: -402px;
+margin-left: -40px;
+display: none;
+}
+.clock1 {
+width: 165px;
+height: 300px;
+background-image: url(https://i.pinimg.com/736x/6e/e1/91/6ee19142a58f28b93766a9f44663a540.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: -402px;
+margin-left: -40px;
+display: none;
+}
+.l1 {
+width: 100%;
+height: 250px;
+/* border: 1px solid red; */
+padding-top: 100px;
+}
+.l11 {
+width: 100%;
+height: 250px;
+/* border: 1px solid red; */
+padding-top: 100px;
+}
+.l2, .l22 {
+width: 100%;
+height: 50px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+#startButton {
+width: 50px;
+height: 25px;
+border-radius: 20px;
+border: none;
+}
+#shopButton {
+width: 50px;
+height: 25px;
+border-radius: 20px;
+border: none;
+}
+#h1 {
+font-size: 50px;
+}
